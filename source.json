@@ -9,10 +9,12 @@
     },
     "description":"izy's assorted package listings",
     "infoLink":{
-        "url":"http://github.com/izykitten/vcc",
+        "url":"http://github.com/izykitten/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[],
+    "githubRepos":[
+        "izykitten/ScaledColliderSystem"
+    ],
     "packages":[]
 }
