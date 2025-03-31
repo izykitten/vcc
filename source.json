@@ -14,7 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "izykitten/ScaledColliderSystem"
+        "izykitten/ScaledColliderSystem",
+        "izykitten/Udon-Noclip"
     ],
     "packages":[]
 }
